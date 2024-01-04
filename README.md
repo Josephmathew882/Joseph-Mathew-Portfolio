@@ -19,7 +19,7 @@ The aim of this project is to build a dashboard related to the bike sales of a g
          between leading profits with age groups of people and according to males and females and needs that can be purchased when buying a bike.
 * Processes Used - Data Cleaning, Data Modeling, Data Visualization
 * Features Used - Tooltip, Slicers, Maps, Bookmarks, Charts, Graphs
-## Bike Sales Dashboard ![](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Bike%20sales.png)
+## Bike Sales Dashboard ![Bike sales](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/dcbf173c-3cb4-4c40-ab54-f6f9dce88320)
 
 # [Mini Project-3-Adidas-Sales-Dashboard-Using-Tableau](https://github.com/Josephmathew882/Project-3-Adidas-Sales-Dashboard-Using-Tableau)
 The aim of the project is to build the dashboards related to the sales of Adidas brand using Tableau.
