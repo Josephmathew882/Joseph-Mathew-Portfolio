@@ -26,9 +26,9 @@ The aim of the project is to build the dashboards related to the sales of Adidas
 * Data - Data set is taken from Kaggle and this dataset include details such as the number of units sold, the total sales, the location of the sales, the 
          type of product sold, and other relevant information.
 * Processes Used - Data Cleaning, Data Modeling, Data Visualization
-## Adidas Sales Dashboard 1 ![](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Adidas%20dashboard%201.png)
-## Adidas Sales Dashboard 2 ![](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Adidas%20dashboard%202.png)
-## Adidas Sales Dashboard 3 ![](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Adidas%20dashboard%203.png)
+## Adidas Sales Dashboard 1 ![Adidas Sales Dashboard 1](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Adidas%20dashboard%201.png)
+## Adidas Sales Dashboard 2 ![Adidas Sales Dashboard 2](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Adidas%20dashboard%202.png)
+## Adidas Sales Dashboard 3 ![Adidas Sales Dashboard 3](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/blob/main/Adidas%20dashboard%203.png)
 
   
 # [Accenture-Data-Analytics-and-Visualization-Job-Simulation](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation)
