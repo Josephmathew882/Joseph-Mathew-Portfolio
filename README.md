@@ -28,9 +28,9 @@ The aim of the project is to build the dashboards related to the sales of Adidas
 * Processes Used - Data Cleaning, Data Modeling, Data Visualization
   
 
-![Adidas dashboard 1](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/a6a90580-49b6-4ca0-a9ee-268083018c6e)
-![Adidas dashboard 2](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/01ab7131-94ab-449e-82d7-59e103ade0b5)
-![Adidas dashboard 3](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/d916c20f-1956-4f9c-a8bf-1eeee8886d88)
+## Adidas Sales Dashboard 1![Adidas dashboard 1](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/a6a90580-49b6-4ca0-a9ee-268083018c6e)
+## Adidas Sales Dashboard 2![Adidas dashboard 2](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/01ab7131-94ab-449e-82d7-59e103ade0b5)
+## Adidas Sales Dashboard 3![Adidas dashboard 3](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/d916c20f-1956-4f9c-a8bf-1eeee8886d88)
 
 
   
