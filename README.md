@@ -15,7 +15,7 @@ Aim of this  project is to predict the total sales of global brand Adidas in eac
 
   
   
-# [Mini Project-2-Bike-sales-dashboard-using-Power-Bi](https://github.com/Josephmathew882/Project-2-Bike-sales-dashboard-using-Power-Bi)
+# [Mini Project 2: Bike sales dashboard using Power Bi](https://github.com/Josephmathew882/Project-2-Bike-sales-dashboard-using-Power-Bi)
 The aim of this project is to build a dashboard related to the bike sales of a global store
 * Data - Dataset is taken from Kaggle and this dataset include details of bike sales in different countries and the relationship
          between leading profits with age groups of people and according to males and females and needs that can be purchased when buying a bike.
@@ -25,7 +25,7 @@ The aim of this project is to build a dashboard related to the bike sales of a g
 
 
 
-# [Mini Project-3-Adidas-Sales-Dashboard-Using-Tableau](https://github.com/Josephmathew882/Project-3-Adidas-Sales-Dashboard-Using-Tableau)
+# [Mini Project 3: Adidas Sales Dashboard Using Tableau](https://github.com/Josephmathew882/Project-3-Adidas-Sales-Dashboard-Using-Tableau)
 The aim of the project is to build the dashboards related to the sales of Adidas brand using Tableau.
 * Data - Data set is taken from Kaggle and this dataset include details such as the number of units sold, the total sales, the location of the sales, the 
          type of product sold, and other relevant information.
@@ -38,7 +38,7 @@ The aim of the project is to build the dashboards related to the sales of Adidas
 
 
   
-# [Accenture-Data-Analytics-and-Visualization-Job-Simulation](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation)
+# [Accenture Data Analytics and Visualization Job Simulation by Foragae](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation)
 This project includes understanding of client data, data cleaning and modeling, data visualization and presentation.
 ## Task - 1
 ## Project Understanding
@@ -80,7 +80,7 @@ Presenting the powerpoint created before clients and give them insights and reco
 
 
 
-# [Power-BI-Virtual-Case-Experience](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience)
+# [Power BI Virtual Case-Experience by Forage](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience)
 This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power BI tool. Participating in the program is a opportunity for me to master Power BI in Data Analysis.
 # Task - 1
 ## Call Centre Trends
