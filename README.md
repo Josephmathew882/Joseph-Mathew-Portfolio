@@ -12,6 +12,8 @@ Aim of this  project is to predict the total sales of global brand Adidas in eac
 * Algorithms Used  - Random Forest Regressor, Linear Regressor, K-Neighbours Regressor, Support Vector Regressor
 * Conclusion       - From the cross validation analysis it is evident that Random Forest Regressor is best suitable algorithm for the given data set and using Random 
                       Forest Regressor Model we predicted the target values which is total sales of Adidas product with a model score of 99.9%.
+
+  
   
 # [Mini Project-2-Bike-sales-dashboard-using-Power-Bi](https://github.com/Josephmathew882/Project-2-Bike-sales-dashboard-using-Power-Bi)
 The aim of this project is to build a dashboard related to the bike sales of a global store
@@ -20,6 +22,8 @@ The aim of this project is to build a dashboard related to the bike sales of a g
 * Processes Used - Data Cleaning, Data Modeling, Data Visualization
 * Features Used - Tooltip, Slicers, Maps, Bookmarks, Charts, Graphs
 ## Bike Sales Dashboard ![Bike sales](https://github.com/Josephmathew882/Joseph-Mathew-Portfolio/assets/151965486/dcbf173c-3cb4-4c40-ab54-f6f9dce88320)
+
+
 
 # [Mini Project-3-Adidas-Sales-Dashboard-Using-Tableau](https://github.com/Josephmathew882/Project-3-Adidas-Sales-Dashboard-Using-Tableau)
 The aim of the project is to build the dashboards related to the sales of Adidas brand using Tableau.
@@ -72,6 +76,7 @@ Make the Powerpoint presentation for the client to give insights and recomendati
 ## Task - 4
 ## Present to the clients
 Presenting the powerpoint created before clients and give them insights and recommendation regarding their data
+
 
 
 
