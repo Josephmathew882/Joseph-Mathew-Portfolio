@@ -1,4 +1,4 @@
-# Joseph-Mathew-Portfolio
+# Joseph Mathew
 # Data Analytics and Machine Learning Portfolio
 
 # [Mini Project 1: Adidas Sales Prediction Using Machine Learning](https://github.com/Josephmathew882/Project-1-Adidas-Sales-Prediction-)
