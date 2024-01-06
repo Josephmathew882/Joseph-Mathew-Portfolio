@@ -38,82 +38,10 @@ The aim of the project is to build the dashboards related to the sales of Adidas
 
 
   
-# [Accenture Data Analytics and Visualization Job Simulation by Foragae](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation)
-This project includes understanding of client data, data cleaning and modeling, data visualization and presentation.
-## Task - 1
-## Project Understanding
-
-* One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
-  
-* She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
-  
-* Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
-
-  The client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
   
-About Client: [Social Buzz](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Data_Analytics%20Client%20Brief%20(1).pdf)
-
-## Task - 2
-## Data Cleaning 
-
-* Removing rows that have values which have no values.
-* Changing the data type of some values within a column.
-* Removing columns which are not relevant to this task.
-  
-## Data Modeling
- From the all the datasets given we have used ReactionTypes, Reactions and Content data sets.
- 
- We created a final dataset by merging these three datasets with use of power query and identified the top 5 categories which have higher popularity.
-
-  [Cleaned and Merged Dataset](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Cleaned%20Data%20%20with%20Top%205%20Categories.xlsx)
-
-## Task - 3
-## Data Visualiztion and Storytelling 
-Make the Powerpoint presentation for the client to give insights and recomendations
-[Presentation for client](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Task%203_final.pptx)
-
-## Task - 4
-## Present to the clients
-Presenting the powerpoint created before clients and give them insights and recommendation regarding their data
 
 
-
-
-# [Power BI Virtual Case-Experience by Forage](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience)
-This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power BI tool. Participating in the program is a opportunity for me to master Power BI in Data Analysis.
-## Task - 1
-## Call Centre Trends
-Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
-
-Possible KPIs include (to get you started, but not limited to):
-
-* Overall customer satisfaction
-* Overall calls answered/abandoned
-* Calls by time
-* Average speed of answer
-* Agent’s performance quadrant -> Average handle time (talk duration)  vs Calls answered
-
-## Call Center Analysis ![Call Center Analysis](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/820aa36e-79b5-4fa6-9a70-da046582bdd4)
-
-## Task - 2
-## Customer Retention
-
-* Define proper KPIs
-* Create a dashboard for the retention manager reflecting the KPIs
-* Write a short email to the engagement partner explaining your findings, and include suggestions as to what needs to be changed
-
-## Customer Retention Dashboard ![Customer Retention 1](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/77b817e0-dc12-4a2f-adf8-37e1322bcea3)
-![Customer Retention 2](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/54702873-d9c8-4f99-b435-40b2bebcaac6)
-
-## Task - 3
-## Diversity and Inclusion
-
-* Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
-* Write what you think some root causes of their slow progress might be
-
-## Diversity and Inclusion Dashboard ![Diversity and Inclusion 1](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/798f636b-0ab3-4022-bd53-b6bf434a5def)
-![Diversity and Inclusion 2](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/b133fc83-1703-4fd2-91de-185250528da7)
 
 
 
